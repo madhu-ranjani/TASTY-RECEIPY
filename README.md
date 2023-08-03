@@ -3,4 +3,4 @@ Tasty recipe is an API based web app where you can find the procedure to cook an
 # [LIVE URL][1]
 [1]:tasty-receipe.madhuranjani.repl.co   "LIVE URL"
 
-<a href="tasty-receipe.madhuranjani.repl.co" target="_blank">LIVE URL</a>
+<a href="https://tasty-receipe.madhuranjani.repl.co/" target="_blank">LIVE URL</a>
